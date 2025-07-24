@@ -1,9 +1,11 @@
+### learning python is easy
+
 A = 10
 B = 20
 Name = 'vikas'
 Age  = 25
 height = 5.8
-
+       
 
 print(Age)  ##it will print age of vikas , basically age is a integer.
 print(type(Age))  ## type is used to know which data type is . Output : <class 'int'>
